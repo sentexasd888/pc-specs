@@ -9,7 +9,7 @@ fans game factor Fkg500 white rgb 3x
 fans cooler master masterfan halo white rgb 4x
 msi Mag 274qrfw X32 0.5ms 320hz WQHD
 logitech G Pro Gx Blue clicky rgb
-logitech G903 lightspeed hero 16k
+steelseries Prime+
 mousepad logitech G640 XL
 razer blackshark V3 X hyperspeed
 blue snowball ice
